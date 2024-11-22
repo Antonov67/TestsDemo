@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestsDemo</string>
+    <string name="empty_operands">Поле пустое</string>
+</resources>
